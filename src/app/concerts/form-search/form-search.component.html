@@ -1,0 +1,22 @@
+<form [formGroup]="concertForm" (ngSubmit)="submit()">
+  <mat-form-field appearance="outline">
+    <mat-label>Nombre evento</mat-label>
+    <input matInput formControlName="name" class="border-round" />
+  </mat-form-field>
+  <mat-form-field appearance="outline" class="border-round">
+    <mat-label>Artista</mat-label>
+    <input matInput formControlName="artist" />
+  </mat-form-field>
+  <mat-form-field appearance="outline" class="border-round">
+    <mat-label>Lugar</mat-label>
+    <input matInput formControlName="place" />
+  </mat-form-field>
+  <div class="container-actions">
+    <button type="submit" class="button-submit">Buscar</button>
+    <div>
+      <button mat-fab color="accent" (click)="clearFilters()">
+        <mat-icon>clear</mat-icon>
+      </button>
+    </div>
+  </div>
+</form>

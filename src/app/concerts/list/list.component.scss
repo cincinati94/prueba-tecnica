@@ -1,0 +1,46 @@
+.container-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   gap: 16px;
+   padding: 3em 0;
+
+  .mdc-card {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid lightgrey;
+    padding: 15px 20px;
+    justify-content: space-around;
+    gap: 1em;
+  }
+  .footer-card {
+    display: grid;
+    gap: 1em;
+    padding: 1em;
+
+    .price {
+      border: 2px solid red;
+      color: red;
+      padding-top: 0;
+      padding: 7px;
+    }
+    .mat-mdc-form-field{
+        width: 100%;
+    }
+ 
+  }
+ 
+}
+@media (min-width: 768px) {
+  .container-cards{
+  margin-left: 3%;
+ justify-content: flex-start;
+  }
+ .img-destacada{
+   height: 40%;
+ }
+}
+.no-result-container{
+  text-align: center;
+  margin-top: 2em;
+}

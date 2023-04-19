@@ -1,0 +1,27 @@
+<app-form-search></app-form-search>
+<img src="https://uk.tmconst.com/ccp-salesforce-images/ES/WEB-TINI-GARCIA_1440x450.jpg?auto=webp" alt="img-destacada" style="width: 100%;"  class="img-destacada">
+<div>
+</div>
+<div class="container-content">
+<div class="container">
+  <div *ngIf="filteredList.length > 0; else noResults">
+  <div  class="container-cards">
+  <mat-card *ngFor="let item of filteredList" class="card" >
+    <img mat-card-lg-image alt="imagen artistas" src="{{ item.img }}" width="300px" />
+    <div>
+      <mat-card-content>{{ item.artista }}</mat-card-content>
+      <div class="footer-card">
+        <mat-card-content class="price">Desde {{ item.precio }},00 €</mat-card-content>
+        <a mat-raised-button color="primary" [routerLink]="['/details/',item.id]" target="_blank">Detalles</a>
+      </div>
+    </div>
+  </mat-card>
+</div>
+</div>
+</div>
+</div>
+<ng-template #noResults>
+  <div class="no-result-container">
+    <h2>No se han encontrado resultados para su búsqueda</h2>
+  </div>
+</ng-template>

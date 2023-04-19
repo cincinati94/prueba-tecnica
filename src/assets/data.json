@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "nombre": "40 años y seguimos esperando",
+    "artista": "Hombres G",
+    "lugar": "Auditorio,Zaragoza",
+    "fecha": "24/06/2023",
+    "descripcion": "<p>Fue en 1982 cuando cuatro jóvenes madrileños decidieron unirse para formar su propia banda. David Summers (voz y bajo), Rafa Gutiérrez (guitarra), Daniel Mezquita (teclados y guitarra) y Javi Molina (batería) daban sus primeros pasos en la música.</p><p>No fue hasta tres años después cuando lanzaron su primer trabajo discográfico de título homónimo. Incluía canciones que fueron todo un éxito, como Devuélveme a mi chica, Venezia o Dejad que las niñas se acerquen a mí.</p><p>Un año después veía la luz su segundo disco, La cagaste... Burt Lancaster. En él recuperaban los primeros temas que la agrupación compuso en sus inicios y otros de nueva creación. El público podía disfrutar, así, de Visite nuestro bar, Indiana, En la playa, Un par de palabras o Te quiero.</p><p>A lo largo de estos 40 años de trayectoria, a sus conciertos han acudido los hijos/as de aquellos que un día fueron los primeros fans y todavía hoy lo son, tomando el relevo de este huracán musical cuyas canciones interpelan a todos, tengas la edad que tengas. Canciones hechas para ser cantadas a pleno pulmón, que se han terminado convirtiendo en himnos de nuestro día a día.</p><p>Todo ello merece una celebración por todo lo alto. 2023 va a ser el año de Hombres G y esta gira '40 años y seguimos empezando' es la constatación de un éxito inmensurable que aún sigue creciendo. Un repaso por los discos que marcaron las vidas de millones de personas, desde su álbum debut homónimo en 1985 hasta el reciente ‘La Esquina de Rowland’ en 2021</p>    ",
+    "precio": 50,
+    "hora": "21:00",
+    "img": "https://www.lagalerna.com/wp-content/uploads/2021/08/Hombres-G-slide.jpg",
+    "img_large": "https://dynamic.appronet.es/eventos/6/20230127114755-evento.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Tini",
+    "artista": "Tini",
+    "lugar": "WiZink Center, Madrid",
+    "fecha": "17/8/2023",
+    "descripcion": "<p>TINI se ha convertido en un fenómeno global, con un seguimiento social de más de 34 millones y más de 4 mil millones de streams de audio y video combinados. En 2020, TINI fue Artista del Año de Billboard Argentina y la artista femenina argentina #1 en Spotify. TINI realizó una gira por Europa y América Latina en su gira principal Quiero Volver en 2019/2020, incluidos nueve espectáculos con entradas agotadas en Luna Park en Buenos Aires.</p><p>TINI también co-entrenó con Alejandro Sanz en la temporada 2020 de La Voz España</p><p> El lanzamiento del álbum más reciente de TINI fue TINI TINI TINI; ella co-escribió todas las canciones con el apoyo de los renombrados productores y compositores Andrés Torres y Mauricio Rengifo, quienes fueron galardonados como Productor del Año en los Latin GRAMMYs® 2020.<p>TINI ha grabado con grandes de la talla de Alejandro Sanz, Sebastián Yatra, Karol G, Cali y El Dandee, Alesso, Morat, Anitta, Becky G, R3HAB, Greeicy, Lalo Ebratt, María Becerra, Álvaro Soler, Jonas Blue, Reik, Aitana, Ana Guerra, Mau & Ricky, Ovy en la batería, KHEA, Manuel Turizo y Nacho.",
+    "precio": 30,
+    "hora": "21:00",
+    "img": "https://concertmusicfestival.com/wp-content/uploads/2022/12/TINI_1000x1000.jpg",
+    "img_large": "https://uk.tmconst.com/ccp-salesforce-images/ES/WEB-TINI-GARCIA_1440x450.jpg?auto=webp"
+  },
+  {
+    "id": 3,
+    "nombre": "Mad Cool Festival",
+    "artista": "Varios",
+    "lugar": "Nuevo Recinto Festivales, Madrid",
+    "fecha": "06/07/2023",
+    "descripcion": "<p>En la actualidad, el Mad Cool Festival es uno de los eventos de música más importantes a nivel mundial. ¿Aún no lo conoces? A continuación, te mostramos sus principales atractivos. ¡No querrás perdértelo ningún año!</p><p>Fue en el año 2016 cuando se celebró por primera vez este festival que se celebra en Madrid. Concretamente, se hizo a mediados del mes de junio en el estadio multiusos de La Caja Mágica.</p><p>La combinación fue un auténtico éxito. La programación de su primera edición se tradujo en tres días de celebraciones. A lo largo de estas jornadas se ofrecieron 70 conciertos, mientras que el número de asistentes registrados superó con creces los 100.000.</p><p>El día 5 de diciembre de 2022 el Mad Cool Festival ha anunciado sus primeras 53 confirmaciones, entre las cuales destacan The Black Keys, Red Hot Chili Peppers, Lizzo, Queens of the Stone Age, Sam Smith, Liam Gallagher, The Prodigy, The 1975, Nova Twins, Robbie Williams, Lil Nas X, Franz Ferdinand y Tash Sultana, entre otros.</p>",
+    "precio": 70,
+    "hora": "22:00",
+    "img": "https://fotografias.flooxernow.com/clipping/cmsimages02/2022/12/09/98F3AC42-1119-47E9-9094-4096FBDE38B4/cartel-mad-cool-2023_98.jpg?crop=1920,1080,x0,y0&width=1900&height=1069&optimize=high&format=webply",
+    "img_large": "https://s3.abcstatics.com/media/cultura/2019/07/10/mad-cool-k7jC--620x349@abc.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Sanz en vivo",
+    "artista": "Alejandro Sanz",
+    "lugar": "Auditorio,Zaragoza",
+    "fecha": "22/07/2023",
+    "descripcion": "<p>Alejandro Sánchez Pizarro, más conocido profesionalmente como Alejandro Sanz, nació en Madrid el 18 de diciembre de 1968. Su carrera discográfica comenzó a una edad temprana. Desde pequeño se interesó por la música y, en especial, por la composición. Cuando solo era un adolescente, formó un grupo musical de heavy metal que se dedicaba a tocar en pequeños bares y clubes.</p><p>El 24 de novimebre de 2022 Alejandro Sanz ha anunciado nueva gira con la que regresa a nuestros escenarios. La gira Sanz en Vivo, que este verano superó los 300.000 seguidores siendo la más multitudinaria del año, regresará a España en 2023 tras su etapa internacional.</p><p>Estas nuevas fechas tendrán lugar entre los meses de junio y agosto y suponen una nueva oportunidad de disfrutar del directo del artista español de mayor éxito en todo el mundo de las últimas décadas, con más de 25 millones de discos vendidos, 4 premios Grammy, 25 Latin Grammy y honrado en 2017 por la Academia de Grabación Latina como Persona del Año, en reconocimiento a toda su carrera.</p>",
+    "precio": 40,
+    "hora": "21:00",
+    "img": "https://www.cadenadial.com/wp-content/uploads/2023/03/Alejandro-Sanz.jpg",
+    "img_large":"https://entremelodias.files.wordpress.com/2023/02/alejandro-seanz-qep-medium-size.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Alex Ubago",
+    "artista": "Alex Ubago",
+    "lugar": "Sala Oasis, Zaragoza",
+    "fecha": "22/04/2023",
+    "descripcion": "<p>La gira de Alex Ubago llegará en breve a tu ciudad. En esta esperada cita podremos disfrutar de muchas de las composiciones más representativas de su carrera, que también están incluidas en su nuevo álbum “ALEX UBAGO 20 AÑOS”.</p><p>“Qué pides tú”, “A gritos de esperanza”, “Dame tu aire”, “Ella vive en mí”… y tampoco faltarán himnos como “Estar contigo”, “Aunque no te pueda ver” y “Sin miedo a nada” entre otras grandes canciones..</p>El repertorio y el reencuentro con su público más fiel serán los verdaderos protagonistas de este 20 aniversario en los escenarios.</p><p>Con esta gira, vuelvo a la carretera para celebrar mis dos décadas en la música repasando las canciones más importantes de mi repertorio.</p>",
+    "precio": 20,
+    "hora": "20:00",
+    "img": "https://yt3.googleusercontent.com/0MyZ2vWtN4XaLSyG08h7cWq469Voaepf27vTJzQVRiNkVnZ8oYzDtdEXQ1YeN1svp_PYBwYSHI4=s900-c-k-c0x00ffffff-no-rj",
+    "img_large":"https://teatromadrid.com/wp-content/uploads/2022/02/TEATRO_MADRID-Alex-ubago-0.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Uno más uno son Veinte",
+    "artista": "Fran Perea",
+    "lugar": "Sala Mon Live, Madrid",
+    "fecha": "27/04/2023",
+    "descripcion": "<p>‘Uno más Uno son 20’ es el nuevo proyecto musical de Fran Perea. En este formato, Fran Perea repasa su carrera musical en concierto, como celebración de sus 20 años en la música. Un viaje por los temas que marcaron a toda una generación de los álbumes 'La Chica de la Habitación de al Lado' o 'Punto y Aparte' y también incluyendo canciones de nueva creación de sus discos 'Canciones para Salvarme', 'Viaja la Palabra' y 'Viejos Conocidos'.</p><p>Una banda capitaneada por Víctor Elías, y con una puesta en escena muy original. La música se acompaña de pinceladas, colores y trazos en movimiento que se irán proyectando durante el show y que bailarán al compás del ritmo permaneciendo visibles para el espectador el tiempo exacto para crear una atmósfera más allá de lo auditivo hasta el terreno audiovisual. También se incluirán en vídeo algunas de las colaboraciones de artistas que se han unido al malagueño en su último trabajo musical. Y quién sabe, quizá se animen a visitarlo en alguna plaza de su gira por España.</p>",
+    "precio": 30,
+    "hora": "22:00",
+    "img": "https://phantom-marca.unidadeditorial.es/b4fca80a62618d8cc551728cc30055f6/resize/1320/f/jpg/assets/multimedia/imagenes/2023/02/17/16766491596149.jpg",
+    "img_large":"https://www.franperea.com/images/actualidad/notas-prensa/20220930-alvaro-benito-fran-perea-puntoyaparte-firma-vicente-sanchez-H.jpg"
+
+  },
+  {
+    "id": 7,
+    "nombre": "Pablo Alborán",
+    "artista": "Pablo Alborán",
+    "lugar": "Marenostrum Fuengirola",
+    "fecha": "20/04/2023",
+    "descripcion": "<p>El 2 de diciembre de 2022 tendrá lugar el lanzamiento del nuevo disco de Alborán. Bajo el título La cuarta hoja, su sexto álbum de estudio incluye las colaboraciones de María Becerra, Carín León, Ana Mena, Leo Rizzi, Aitana y Álvaro de Luna.</p><p>El amor es el tema estrella, mientras que su título no está exento de simbolismo. Se inspira en un trébol de cuatro hojas, pero recuerda que la suerte está en uno mismo.</p><p>Con este trabajo, Pablo Alborán aspira a seguir la estela triunfal de una carrera que suma éxito tras éxito.</p><p>Su nuevo álbum La Cuarta Hoja se presenta con una nueva gira compuesta por 12 conciertos, con la que recorrerá las principales ciudades de nuestro país.</p>",
+    "precio": 40,
+    "hora": "21:00",
+    "img": "data:image/jpeg;base64,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",
+    "img_large":"https://los40.com/los40/imagenes/2022/11/30/musica/1669786373_050001_1669786553_gigante_normal.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Music Of The Spheres World Tour",
+    "artista": "Coldplay",
+    "lugar": "Estadi Olímpic Lluis Companys, Barcelona",
+    "fecha": "24/05/2023",
+    "descripcion": "<p>En octubre de 2021, Coldplay lanzó su noveno álbum de estudio, Music Of The Spheres. El álbum fue precedido por los sencillos Higher Power y My Universe, una colaboración con las superestrellas del K-Pop BTS. El 22 de agosto de 2022 anuncian que su gira Music Of The Spheres World Tour llegará a España en verano de 2023, los días 24 y 25 de mayo en el Estadi Olímpic Lluís Companys de Barcelona. La demanda ha sido tan alta durante la preventa que Coldplay anuncia una tercera fecha en Barcelona: el sábado 27 de mayo, también en el Estadi Olímpic Lluís Companys.</p><p>La venta general para los tres conciertos de Barcelona será el jueves 25 de agosto a las 10h.</p>",
+    "precio": 40,
+    "hora": "21:00",
+    "img": "https://dynamicmedia.livenationinternational.com/Media/g/p/o/eb285dd6-45d0-4f98-9ab5-aa7cc8075a98.jpg?auto=webp&width=1507.2",
+    "img_large":"https://news.sap.com/latinamerica/files/2022/08/26/Coldplay-3.png"
+  },
+  {
+    "id": 9,
+    "nombre": "RENAISSANCE WORLD TOUR",
+    "artista": "Beyonce",
+    "lugar": "Estadi Olímpic Lluis Companys, Barcelona",
+    "fecha": "08/06/2023",
+    "descripcion":"<p>Esta gira de 2023, producida por Parkwood Entertainment y que cuenta con Live Nation como promotora, comenzará el 10 de mayo de 2023 en el recinto Friends Arena de Estocolmo (Suecia) y realizará paradas en toda Europa: Cardiff, Edimburgo, Sunderland, París, Londres, Marsella, Ámsterdam y Varsovia, entre otras ciudades. El tour continuará en Norteamérica con conciertos en Toronto, Chicago, East Rutherford, Atlanta, Las Vegas y Los Ángeles.</p><p>Renaissance World Tour también visitará Bruselas, Colonia, Frankfurt, Hamburgo, entre otras ciudades europeas, durante los meses de mayo y junio. Boston, Charlotte, Dallas, Detroit, Kansas City, Louisville, Miami, Minneapolis, Nashville, Nueva Orleans, Filadelfia, Pittsburgh, San Francisco, St. Louis, Tampa, Vancouver, entre otros, son los shows adicionales que la gira ofrecerá en Norteamérica.</p>",
+    "precio": 80,
+    "hora": "20:00",
+    "img": "https://masdecibelios.es/wp-content/uploads/2023/02/beyonce-barcelona-2023-1.jpg.webp",
+    "img_large":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/beyonce-1675273030.jpg?crop=1.00xw:0.386xh;0,0.105xh&resize=1200:*"
+  },
+  {
+    "id": 10,
+    "nombre": "EUROPE 2023",
+    "artista": "Manroon 5",
+    "lugar": "WiZink Center, Madrid",
+    "fecha": "14/06/2023",
+    "descripcion": "<p>Con 3 premios Grammy y más de 120 millones de discos vendidos, Maroon 5 es una de las bandas de pop-rock con más éxito del mundo. La banda de siete miembros de Los Ángeles logra estar constantemente en las listas de éxitos. Con hits como Moves Like Jagger, She Will Be Loved o Girls Like You, cada concierto de Maroon 5 se convierte en una verdadera fiesta.</p><p>Su single Beautiful Mistakes, que cuenta con nada menos que la reina del rap Megan Thee Stallion. Perteneciente al mismo paisaje colorido y pop que los discos anteriores Overexposed, V y Red Pills Blues, el tercer sencillo del séptimo álbum de estudio de Maroon 5 fue producido por Andrew Goldstein y blackbear, conocidos por la canción Hot Girl Bummer que sonó en el meme Hot Girl Summer que Megan Thee Stallion ayudó a popularizar en 2019.</p>Maroon 5 tiene más de 45 millones de oyentes mensuales en Spotify, y ha dado más de 120 conciertos en más de 30 países vendiendo más de 7.500.000 entradas en todo el mundo.</p>",
+    "precio": 90,
+    "hora": "21:00",
+    "img": "https://www.liveabout.com/thmb/204EXGdVMNctM1L7z-6gcVfzq9o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/maroon-5-5b103f953128340036787a58.jpg",
+    "img_large":"https://dynamic.appronet.es/eventos/6/20221114180131-evento.png"
+  }
+]

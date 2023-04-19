@@ -1,0 +1,48 @@
+<link
+  href="https://fonts.googleapis.com/icon?family=Material+Icons"
+  rel="stylesheet"
+/>
+<div *ngIf="itemSelected">
+  <h1 class="title-artist">{{ itemSelected.nombre }}</h1>
+  <img
+    alt="imagen artistas"
+    src="{{ itemSelected.img_large }}"
+    class="img-info"
+  />
+  <div class="details-container">
+    <div class="details">
+      <div class="info-icon">
+        <mat-icon>person</mat-icon>
+        <p>{{ itemSelected.artista}}</p>
+        <mat-divider [vertical]="true"></mat-divider>
+      </div>
+      <div class="info-icon">
+        <mat-icon>place</mat-icon>
+        <p>{{ itemSelected.lugar }}</p>
+        <mat-divider [vertical]="true"></mat-divider>
+      </div>
+      <div class="info-icon">
+        <mat-icon> calendar_month</mat-icon>
+        <p>{{ itemSelected.fecha }}</p>
+        <mat-divider [vertical]="true"></mat-divider>
+      </div>
+      <div class="info-icon">
+        <mat-icon>payments</mat-icon>
+        <p>Desde {{ itemSelected.precio }},00€</p>
+        <mat-divider [vertical]="true"></mat-divider>
+      </div>
+    <div class="info-icon">
+      <mat-icon>schedule</mat-icon>
+      <p>{{ itemSelected.hora}}</p>
+    </div>
+  </div>
+<hr />
+<div class="content-artist-info">
+  <h2 class="title-info">INFO</h2>
+  <div class="content-info">
+    <p [innerHTML]="itemSelected.descripcion"></p>
+    <img alt="imagen artistas" src="{{ itemSelected.img }}" class="img-info-medium">
+  </div>
+</div>
+
+

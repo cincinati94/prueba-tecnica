@@ -1,0 +1,19 @@
+nav{
+    height:120px;
+    background:grey;
+   
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 10px;
+      }
+
+  
+      
+@media (min-width:768px) {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+}
